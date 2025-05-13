@@ -4,7 +4,7 @@
 Have Fun! :)
 
 Header: 
-![alt text](https://github.com/victus54/spooky-page/blob/main/abtmeprflo.png)
+![alt text](https://github.com/victus54/spooky-page/blob/main/header.png)
 
 Middle: 
 ![alt text](https://github.com/victus54/spooky-page/blob/main/abtmeprflo.png)
